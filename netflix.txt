@@ -1,0 +1,4 @@
+models
+ -list
+ -movie
+ -user
