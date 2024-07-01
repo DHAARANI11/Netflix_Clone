@@ -18,3 +18,8 @@ This is the server-side code for the Netflix clone built using the MERN (MongoDB
    ```bash
    npm start
 
+## Technologies Used
+
+1. Backend: Node.js, Express.js, MongoDB
+2. Authentication: JWT (JSON Web Tokens)
+
