@@ -20,3 +20,15 @@ A Netflix clone built using the MERN (MongoDB, Express.js, React, Node.js) stack
    ```bash
    git clone https://github.com/DHAARANI11/Netflix_Clone.git
 
+## Usage
+
+1. Register a new user or log in with existing credentials.
+2. Browse the available movies and TV shows.
+3. Click on a movie or TV show to view its details and start streaming.
+
+## Technologies Used
+
+1. Frontend: React, Redux, CSS
+2. Backend: Node.js, Express.js, MongoDB
+3. Authentication: JWT (JSON Web Tokens)
+
